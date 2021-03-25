@@ -1,5 +1,5 @@
 {
-    "name": "encore/laravel-admin",
+    "name": "encore-custom/laravel-admin",
     "description": "laravel admin",
     "type": "library",
     "keywords": ["laravel", "admin", "grid", "form"],
